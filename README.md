@@ -1,1 +1,1 @@
-Airline management System and uts database
+Airline management System and its database
